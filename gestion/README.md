@@ -49,9 +49,12 @@ cd projet_phase3
 python -m venv .venv
 source .venv/bin/activate  
 
+---
+
 ## Lancement
 python app.py
 
+---
 Modèles de données
 Utilisateur
 id (int, PK)
